@@ -16,6 +16,8 @@ Simply do :
 
 Simply put the token in the text section
 
+***Example***
+
 ``MzI1MTU3ODA5MjExNTcyMjI1.DOQYbA.vnBfE7DtN2zxZW6Ohw_POto6npA``
 
 ``MTYzODM3OTQ3OTY2MTI4MTI4.DOQApA.q-RZqUVpg2drGqpSjatcZf0EJZY``
