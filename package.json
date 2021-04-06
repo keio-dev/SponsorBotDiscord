@@ -1,0 +1,32 @@
+{
+    "name": "sponsor-bot-discord",
+    "version": "1.0.1",
+    "description": "This sponsor bot is to mass DM people (servers, ect). Feel free to use it. NOTE : I AM NOT RESPONSIBLE FOR THE CONSEQUENCES THAT GOES TO YOU!",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.16.3",
+      "request": "^2.88.0",
+      "fs": "^0.0.1-security",
+      "discord.js": "^11.4.2",
+      "readline": "^1.3.0",
+      "chalk": "^2.4.1"
+    },
+    "engines": {
+      "node": "8.12.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/soma-cxpo/SponsorBotDiscord/tree/main"
+    },
+    "keywords": [
+      "discord spam",
+      "discord mass dm",
+      "discord advertising"
+    ],
+    "author": "soma-cxpo",
+    "contributors": [],
+    "license": "MIT"
+  }
