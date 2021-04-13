@@ -34,6 +34,4 @@ Run this command :
 
 When the program has started read and answer the prompts. When answered the bot will start it's process
 
-# Contact
-
-Discord : >nsym'BI0S#1337
+### Have fun !
